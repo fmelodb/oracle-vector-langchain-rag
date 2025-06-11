@@ -1,4 +1,4 @@
-# Oracle Vector - Similarity Search Demo
+# Oracle Vector - RAG Demo
 
 It demonstrates how you can perform RAG on Oracle AI Vector Search using Lanchain.
 
