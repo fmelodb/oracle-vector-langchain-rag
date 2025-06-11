@@ -1,6 +1,6 @@
 # Oracle Vector - RAG Demo
 
-It demonstrates how you can perform RAG on Oracle AI Vector Search using Lanchain.
+It demonstrates how you can perform RAG on Oracle AI Vector Search using Langchain.
 
 The program prompts what is the most powerful consumer grade GPU from NVIDIA in 2025. Using a model with no updated info returns previous generations (NO RAG).
 
